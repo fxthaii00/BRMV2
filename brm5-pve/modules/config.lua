@@ -2,7 +2,7 @@
 local Config = {}
 local HttpService = game:GetService("HttpService")
 
-Config.CONFIG_FILE = "brm5_pve_config.json"
+Config.CONFIG_FILE = "brmv2_pve_config.json"
 Config.guiVisible = true
 Config.currentToggleKey = "Home"
 Config.savedGuiPos = UDim2.new(0.5, 0, 0.5, 0)
