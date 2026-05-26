@@ -5,8 +5,8 @@ local Services = {
     CoreGui = game:GetService("CoreGui")
 }
 
-local Config = loadstring(game:HttpGet("https://raw.githubusercontent.com/fxthaii00/BRM5/main/brm5-pve/modules/config.lua"))()
-local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/fxthaii00/BRM5/main/brm5-pve/modules/gui.lua"))()
+local Config = loadstring(game:HttpGet("https://raw.githubusercontent.com/fxthaii00/BRMV2/main/brm5-pve/modules/config.lua"))()
+local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/fxthaii00/BRMV2/main/brm5-pve/modules/gui.lua"))()
 
 Config:load()
 
